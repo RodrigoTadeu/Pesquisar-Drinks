@@ -1,0 +1,10 @@
+.input-pesquisa {
+    margin: 40px 50%;
+    transform: translate(-50%,0);
+    width: 700px;
+    height: 40px;
+    padding-left: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    font-size: 20px;
+   }

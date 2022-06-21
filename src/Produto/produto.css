@@ -1,0 +1,45 @@
+body {
+    background: #eee;
+}
+
+.container3 {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.name2 {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 40px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-around;
+  }
+
+.img-container, .instruçoes {
+   width: 50%;
+   align-items: center;
+   padding-left: 20px ;
+}
+
+.img2 {
+    width: 350px;
+    border-radius: 10px;
+    padding-left: 60px;
+}
+
+
+.instruçoes {
+    border: solid 1px #ccc;
+    border-radius: 10px;
+    background: #ccc;
+    padding-left: 20px ;
+    padding-bottom: 100px;
+}
+
+.catogory {
+    margin-left: 50px;
+}

@@ -1,0 +1,40 @@
+.container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 1300px;
+    margin: 0 auto;
+    
+    
+   
+}
+
+.chield {
+    width: 30%;
+    height: 480px;
+    align-items: center;
+    margin: 15px 2px;
+    border: 1px solid #bbb;
+    background: #ccc;
+    
+}
+
+.img, .name {
+    margin-left: 50%;
+    transform: translate(-50%,0);
+    cursor: pointer;
+    background: #ccc;
+  
+}
+
+.name {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px ;
+    font-weight: bold;
+    
+}
+
+.name:hover {
+    color: red;
+}
